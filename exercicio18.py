@@ -9,8 +9,12 @@
       #  soma= soma + c
 
 #print("a soma de todos os valores e {}".format(soma))
-tabuada = 2
-for i in range(1,11):
-    result = tabuada*i
-    print(tabuada,*"x",i,"=",result)
-    
+
+
+
+#num = int(input("qual tabuada vc quer ?"))
+#for i in range(1,11):
+   #print(n,*"x",i,"=",result)
+   # print("{} x {:2} = {}".format(num, i, num*i))
+
+
